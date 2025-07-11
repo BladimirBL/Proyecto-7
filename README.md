@@ -12,4 +12,10 @@ Esta aplicación web fue creada con **Streamlit** y permite explorar un conjunto
 
 1. Asegúrate de tener Python instalado.
 2. Instala los paquetes necesarios desde `requirements.txt`.
-3. Ejecuta el archivo `app.py` con el comando:
+
+
+¿Cómo puedo enviar mi proyecto?
+
+Porfavor dirijase a este link: https://proyecto-7-99n4.onrender.com
+
+
