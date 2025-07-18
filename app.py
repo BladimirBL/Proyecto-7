@@ -26,6 +26,6 @@ another_button = st.checkbox('Grafico de dispersión')
 if another_button:
     fig2 = px.scatter(car_data, x="model_year", y="odometer", title='Gráfico de dispersión del año vs. kilometraje')
     
-    st.write("Gráfico de dispersión del año vs. kilometraje:")
+    #st.write("Gráfico de dispersión del año vs. kilometraje:")
     st.plotly_chart(fig2)
     
